@@ -1,7 +1,7 @@
 {
   "name": "soyyo",
   "version": "1.0.0",
-  "description": "Test ingreso soyyo",
+  "description": "Proyecto Comfama",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./index.js",
